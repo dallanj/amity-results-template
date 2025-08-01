@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 /vendor/
 node_modules/
 npm-debug.log
@@ -16,6 +17,15 @@ public_html/storage
 public_html/hot
 
 storage/*.key
+=======
+/.phpunit.cache
+/node_modules
+/public/build
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+>>>>>>> Stashed changes
 .env
 Homestead.yaml
 Homestead.json
